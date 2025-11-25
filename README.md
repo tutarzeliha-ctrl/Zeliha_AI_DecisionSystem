@@ -4,6 +4,12 @@ AI-Powered Decision Engine for E-commerce User Behavior Analysis
 
 ![Banner](banner.png)
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![AI Pipeline](https://img.shields.io/badge/AI-Pipeline-purple)
+![PDF Automation](https://img.shields.io/badge/PDF-Automation-green)
+![Bilingual](https://img.shields.io/badge/Language-TR%2FEN-yellow)
+![Status](https://img.shields.io/badge/Version-1.0.0-orange)
+
 🧠 Overview
 
 This project automatically analyzes user behavior patterns in e-commerce platforms and generates professional bilingual (TR + EN) PDF reports.
