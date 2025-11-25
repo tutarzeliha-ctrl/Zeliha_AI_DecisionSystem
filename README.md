@@ -1,7 +1,8 @@
 📄 Zeliha_AI_DecisionSystem
-
 AI-Powered Decision Engine for E-commerce User Behavior Analysis
 (TR + EN Bilingual PDF Reporting)
+
+![Banner](banner.png)
 
 🧠 Overview
 
