@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tutarzeliha-ctrl/Zeliha_AI_DecisionSystem/main/A_digital_graphic_design_banner_features_Zeliha_Tu.png" width="100%">
+</p>
 📄 Zeliha_AI_DecisionSystem
 AI-Powered Decision Engine for E-commerce User Behavior Analysis
 (TR + EN Bilingual PDF Reporting)
